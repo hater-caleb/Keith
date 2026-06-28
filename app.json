@@ -27,11 +27,6 @@
       "description": "Your WhatsApp session ID",
       "required": true
     },
-    "DATABASE_URL": {
-      "description": "Your external database URL (leave empty to auto-provision Heroku PostgreSQL)",
-      "value": "",
-      "required": false
-    },
     "AUTOVIEW_STATUS": {
       "description": "Auto view WhatsApp status (true/false)",
       "value": "true",
